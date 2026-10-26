@@ -1,0 +1,2 @@
+line1-second statement in my file>>second.txt 
+echo line1-Second statement in my file
